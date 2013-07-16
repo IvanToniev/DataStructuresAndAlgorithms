@@ -1,0 +1,5 @@
+C:\Projects\DSAExam\Messages\bin\Debug\Messages.exe.config
+C:\Projects\DSAExam\Messages\bin\Debug\Messages.exe
+C:\Projects\DSAExam\Messages\bin\Debug\Messages.pdb
+C:\Projects\DSAExam\Messages\obj\Debug\Messages.exe
+C:\Projects\DSAExam\Messages\obj\Debug\Messages.pdb

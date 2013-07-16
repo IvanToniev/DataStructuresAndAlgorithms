@@ -1,0 +1,6 @@
+C:\Projects\DSAExam\Businessmen\bin\Debug\Businessmen.exe.config
+C:\Projects\DSAExam\Businessmen\bin\Debug\Businessmen.exe
+C:\Projects\DSAExam\Businessmen\bin\Debug\Businessmen.pdb
+C:\Projects\DSAExam\Businessmen\obj\Debug\Businessmen.csprojResolveAssemblyReference.cache
+C:\Projects\DSAExam\Businessmen\obj\Debug\Businessmen.exe
+C:\Projects\DSAExam\Businessmen\obj\Debug\Businessmen.pdb

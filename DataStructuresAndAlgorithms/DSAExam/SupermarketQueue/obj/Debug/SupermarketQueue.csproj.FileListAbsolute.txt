@@ -1,0 +1,6 @@
+C:\Projects\DSAExam\SupermarketQueue\bin\Debug\SupermarketQueue.exe.config
+C:\Projects\DSAExam\SupermarketQueue\bin\Debug\SupermarketQueue.exe
+C:\Projects\DSAExam\SupermarketQueue\bin\Debug\SupermarketQueue.pdb
+C:\Projects\DSAExam\SupermarketQueue\obj\Debug\SupermarketQueue.csprojResolveAssemblyReference.cache
+C:\Projects\DSAExam\SupermarketQueue\obj\Debug\SupermarketQueue.exe
+C:\Projects\DSAExam\SupermarketQueue\obj\Debug\SupermarketQueue.pdb
