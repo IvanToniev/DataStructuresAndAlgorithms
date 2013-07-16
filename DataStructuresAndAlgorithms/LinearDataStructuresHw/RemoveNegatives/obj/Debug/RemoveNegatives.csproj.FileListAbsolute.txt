@@ -1,0 +1,5 @@
+C:\Projects\LinearDataStructuresHw\RemoveNegatives\bin\Debug\RemoveNegatives.exe.config
+C:\Projects\LinearDataStructuresHw\RemoveNegatives\bin\Debug\RemoveNegatives.exe
+C:\Projects\LinearDataStructuresHw\RemoveNegatives\bin\Debug\RemoveNegatives.pdb
+C:\Projects\LinearDataStructuresHw\RemoveNegatives\obj\Debug\RemoveNegatives.exe
+C:\Projects\LinearDataStructuresHw\RemoveNegatives\obj\Debug\RemoveNegatives.pdb

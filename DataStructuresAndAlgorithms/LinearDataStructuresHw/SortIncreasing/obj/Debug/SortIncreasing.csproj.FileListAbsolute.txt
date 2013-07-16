@@ -1,0 +1,5 @@
+C:\Projects\LinearDataStructuresHw\SortIncreasing\bin\Debug\SortIncreasing.exe.config
+C:\Projects\LinearDataStructuresHw\SortIncreasing\bin\Debug\SortIncreasing.exe
+C:\Projects\LinearDataStructuresHw\SortIncreasing\bin\Debug\SortIncreasing.pdb
+C:\Projects\LinearDataStructuresHw\SortIncreasing\obj\Debug\SortIncreasing.exe
+C:\Projects\LinearDataStructuresHw\SortIncreasing\obj\Debug\SortIncreasing.pdb

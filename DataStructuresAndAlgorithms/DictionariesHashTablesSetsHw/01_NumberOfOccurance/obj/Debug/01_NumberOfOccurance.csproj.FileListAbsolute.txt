@@ -1,0 +1,6 @@
+C:\Projects\DictionariesHashTablesSetsHw\01_NumberOfOccurance\bin\Debug\01_NumberOfOccurance.exe.config
+C:\Projects\DictionariesHashTablesSetsHw\01_NumberOfOccurance\bin\Debug\01_NumberOfOccurance.exe
+C:\Projects\DictionariesHashTablesSetsHw\01_NumberOfOccurance\bin\Debug\01_NumberOfOccurance.pdb
+C:\Projects\DictionariesHashTablesSetsHw\01_NumberOfOccurance\obj\Debug\01_NumberOfOccurance.csprojResolveAssemblyReference.cache
+C:\Projects\DictionariesHashTablesSetsHw\01_NumberOfOccurance\obj\Debug\01_NumberOfOccurance.exe
+C:\Projects\DictionariesHashTablesSetsHw\01_NumberOfOccurance\obj\Debug\01_NumberOfOccurance.pdb

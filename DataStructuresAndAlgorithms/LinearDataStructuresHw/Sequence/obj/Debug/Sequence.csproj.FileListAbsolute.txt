@@ -1,0 +1,6 @@
+C:\Projects\LinearDataStructuresHw\Sequence\bin\Debug\Sequence.exe.config
+C:\Projects\LinearDataStructuresHw\Sequence\bin\Debug\Sequence.exe
+C:\Projects\LinearDataStructuresHw\Sequence\bin\Debug\Sequence.pdb
+C:\Projects\LinearDataStructuresHw\Sequence\obj\Debug\Sequence.csprojResolveAssemblyReference.cache
+C:\Projects\LinearDataStructuresHw\Sequence\obj\Debug\Sequence.exe
+C:\Projects\LinearDataStructuresHw\Sequence\obj\Debug\Sequence.pdb

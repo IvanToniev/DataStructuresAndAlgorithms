@@ -1,0 +1,8 @@
+C:\Projects\Graphs\FriendsInNeed\bin\Debug\FriendsInNeed.exe.config
+C:\Projects\Graphs\FriendsInNeed\bin\Debug\FriendsInNeed.exe
+C:\Projects\Graphs\FriendsInNeed\bin\Debug\FriendsInNeed.pdb
+C:\Projects\Graphs\FriendsInNeed\bin\Debug\PowerCollections.dll
+C:\Projects\Graphs\FriendsInNeed\bin\Debug\PowerCollections.xml
+C:\Projects\Graphs\FriendsInNeed\obj\Debug\FriendsInNeed.csprojResolveAssemblyReference.cache
+C:\Projects\Graphs\FriendsInNeed\obj\Debug\FriendsInNeed.exe
+C:\Projects\Graphs\FriendsInNeed\obj\Debug\FriendsInNeed.pdb

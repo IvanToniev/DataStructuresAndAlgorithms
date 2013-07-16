@@ -1,0 +1,5 @@
+C:\Projects\LinearDataStructuresHw\ReverseWithStack\bin\Debug\ReverseWithStack.exe.config
+C:\Projects\LinearDataStructuresHw\ReverseWithStack\bin\Debug\ReverseWithStack.exe
+C:\Projects\LinearDataStructuresHw\ReverseWithStack\bin\Debug\ReverseWithStack.pdb
+C:\Projects\LinearDataStructuresHw\ReverseWithStack\obj\Debug\ReverseWithStack.exe
+C:\Projects\LinearDataStructuresHw\ReverseWithStack\obj\Debug\ReverseWithStack.pdb

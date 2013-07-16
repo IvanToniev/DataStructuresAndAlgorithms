@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_FindInTree", "01_FindInTree\01_FindInTree.csproj", "{DFB669C6-1D90-4464-9ED9-6C6623A8E76D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_TraverseFolder", "02_TraverseFolder\02_TraverseFolder.csproj", "{07A337AF-9BC4-4659-81DD-11221408EB2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_KeepFiles", "03_KeepFiles\03_KeepFiles.csproj", "{AC760FB0-B9D1-4CFB-B243-D872EE3D2546}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFB669C6-1D90-4464-9ED9-6C6623A8E76D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB669C6-1D90-4464-9ED9-6C6623A8E76D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB669C6-1D90-4464-9ED9-6C6623A8E76D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB669C6-1D90-4464-9ED9-6C6623A8E76D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07A337AF-9BC4-4659-81DD-11221408EB2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A337AF-9BC4-4659-81DD-11221408EB2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07A337AF-9BC4-4659-81DD-11221408EB2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07A337AF-9BC4-4659-81DD-11221408EB2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC760FB0-B9D1-4CFB-B243-D872EE3D2546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC760FB0-B9D1-4CFB-B243-D872EE3D2546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC760FB0-B9D1-4CFB-B243-D872EE3D2546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC760FB0-B9D1-4CFB-B243-D872EE3D2546}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
